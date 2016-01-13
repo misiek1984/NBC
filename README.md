@@ -1,0 +1,2 @@
+# NBC
+*NBC* and *NBC.Lib* are a C++ implementation of [Neighborhood-Based Clustering Algorithm](ftp://219.223.252.136/Data_Mining/Paper%20Reading/clustering-outlier/NBC-pakdd05.pdf) whereas *SampleDataCreator* is an application in C# that allow one to create test data for the algorithm and to visualise results. I wrote this project a long ago during my studies so it even has quite extensive documentation (see NBC.pdf).

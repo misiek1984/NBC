@@ -1,0 +1,1 @@
+"..\Release\NBC.exe" -from 10 -to 150 -step 10 -input CustomData3\big -output CustomData3\big_res 

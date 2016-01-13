@@ -1,0 +1,1 @@
+"..\Release\NBC.exe" -from 29 -to 45 -step 1 -input CustomData2\CustomData2 -output CustomData2\CustomData2_res -writeNeighbours -writeCompleteData

@@ -1,0 +1,149 @@
+**************** 13-01-2016 22:09 ****************
+
+Input file: CustomData1\CustomData1
+Reading data from input file...
+Elapsed time of reading data: 0 ms 
+Number of vectors: 341
+
+Calculations with k = 5
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 16 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 16 ms 
+Number of clusters: 8
+Writing result to output file: CustomData1\CustomData1_res_5
+Writing neighbours to output file: CustomData1\CustomData1_res_5_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_5_completeAlgorithmData
+
+
+Calculations with k = 7
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 31 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 31 ms 
+Number of clusters: 5
+Writing result to output file: CustomData1\CustomData1_res_7
+Writing neighbours to output file: CustomData1\CustomData1_res_7_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_7_completeAlgorithmData
+
+
+Calculations with k = 9
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 16 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 16 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_9
+Writing neighbours to output file: CustomData1\CustomData1_res_9_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_9_completeAlgorithmData
+
+
+Calculations with k = 11
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 32 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 32 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_11
+Writing neighbours to output file: CustomData1\CustomData1_res_11_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_11_completeAlgorithmData
+
+
+Calculations with k = 13
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 31 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 31 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_13
+Writing neighbours to output file: CustomData1\CustomData1_res_13_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_13_completeAlgorithmData
+
+
+Calculations with k = 15
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 32 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 32 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_15
+Writing neighbours to output file: CustomData1\CustomData1_res_15_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_15_completeAlgorithmData
+
+
+Calculations with k = 17
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 31 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 40 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_17
+Writing neighbours to output file: CustomData1\CustomData1_res_17_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_17_completeAlgorithmData
+
+
+Calculations with k = 19
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 16 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 31 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_19
+Writing neighbours to output file: CustomData1\CustomData1_res_19_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_19_completeAlgorithmData
+
+
+Calculations with k = 21
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 16 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 32 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_21
+Writing neighbours to output file: CustomData1\CustomData1_res_21_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_21_completeAlgorithmData
+
+
+Calculations with k = 23
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 31 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 31 ms 
+Number of clusters: 2
+Writing result to output file: CustomData1\CustomData1_res_23
+Writing neighbours to output file: CustomData1\CustomData1_res_23_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_23_completeAlgorithmData
+
+
+Calculations with k = 25
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 16 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 16 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_25
+Writing neighbours to output file: CustomData1\CustomData1_res_25_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_25_completeAlgorithmData
+
+
+Calculations with k = 27
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 15 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 31 ms 
+Number of clusters: 3
+Writing result to output file: CustomData1\CustomData1_res_27
+Writing neighbours to output file: CustomData1\CustomData1_res_27_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_27_completeAlgorithmData
+
+
+Calculations with k = 29
+5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% 
+Elapsed time of calculating NDF: 31 ms 
+Elapsed time of clustering: 0 ms 
+Total elapsed time of NBC: 31 ms 
+Number of clusters: 2
+Writing result to output file: CustomData1\CustomData1_res_29
+Writing neighbours to output file: CustomData1\CustomData1_res_29_neighbours
+Writing complete algorithm data to file: CustomData1\CustomData1_res_29_completeAlgorithmData
+
